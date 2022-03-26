@@ -17,3 +17,5 @@
 #erpr repository er quick setup theke (origin https://github.com/MirzaAyon/transfer-code-from-old-repo-to-new-repo.git) ei part ta copy kore ager part er sathe paste korbo
 .
 #ebar evabe notun repo te puran repo er jinish set hbe 
+.
+#push korle new repo te jabe 
